@@ -1,0 +1,63 @@
+#cabeçalho {
+    height: 40px;
+    width: 90%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: left;
+    color: white;
+    background-color: black;
+    border-radius: 10px;
+}
+
+img {
+    margin: auto;
+    margin-bottom: 20px;
+    display: flex;
+    height: 70%;
+    width: 70%;
+}
+
+button {
+    margin: auto;
+    margin-bottom: 20px;
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 10px 40px;
+    border: solid 1px green;
+    border-radius: 10px;
+}
+
+.content {
+    margin: auto;
+    display: flex;
+}
+
+#texto {
+    height: 100%;
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+    margin-right: 0px;
+}
+
+#video {
+    display: block;
+    margin: 0 auto;
+    margin-left: 0px;
+}
+
+.rodape {
+    height: 50px;
+    width: 90%;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    word-spacing: 300px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+
